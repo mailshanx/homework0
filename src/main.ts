@@ -6,6 +6,6 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
 <img src="${uicLogo}" class="logo uic" alt="UIC logo" />
 </a>
     <div class="card">
-    welcome to the website of orthogonal.eigenvector@gmail.com 
+    welcome to the website of tempvector@gmail.com 
     </div>
 `;
